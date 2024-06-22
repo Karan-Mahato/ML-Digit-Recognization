@@ -19,4 +19,4 @@ loss : SparseCategoricalCrossentropy
 Validation Split : 25%
 epochs : 60 (Over 60 model get Overfit)
 
-Accuracy : 98%
+Accuracy : 97.4%
