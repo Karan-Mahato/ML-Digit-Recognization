@@ -5,7 +5,7 @@ MNIST data set is used ( imported using tensorflow )
 Total 60,000 images shape (60000,28,28)
 Split into test(10000) and train(50000)
 
-## Preprocessing:
+### Preprocessing:
 Normalize pixel vales from 0-255 to 0-1
 
 ### Model:
