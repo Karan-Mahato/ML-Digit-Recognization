@@ -1,6 +1,6 @@
 # ML-Digit-Recognization
 ML model for digit recognization 
-
+libraies used : numpy, matplotlib, tensorflow<br>
 MNIST data set is used ( imported using tensorflow )<br>
 Total 60,000 images shape (60000,28,28)<br>
 Split into test(10000) and train(50000)<br>
