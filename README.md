@@ -20,8 +20,8 @@ Validation Split : 20%<br>
 epochs : 100 <br>
 batch_size : 1000 <br>
 <br>
-Accuracy : 97.5%
-Loss : 0.093
+Accuracy : 98%%
+Loss : 0.076
 
 
 ![Screenshot 2024-08-07 232121](https://github.com/user-attachments/assets/b5d1a895-3ccd-4c6e-8b9e-d72743dbf40e)
