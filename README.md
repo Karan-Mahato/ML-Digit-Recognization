@@ -1,12 +1,12 @@
 # ML-Digit-Recognization
 
-#Aim
+# Aim
 To develop a robust and efficient machine learning model capable of accurately recognizing and classifying handwritten digits from 0 to 9, leveraging advanced techniques in neural networks.
 
-#Description
+# Description
 The ML-Digit-Recognition model is designed to interpret and classify handwritten digits with high accuracy. This model utilizes a artificial neural network (ANN) architecture, which is well-suited for image recognition tasks due to its ability to capture spatial hierarchies in images. The dataset used for training and testing the model is the MNIST dataset, a benchmark in the field of machine learning and computer vision.
 
-##Key features of the model include:
+## Key features of the model include:
 libraies used : numpy, matplotlib, tensorflow<br>
 MNIST data set is used ( imported using tensorflow )<br>
 Total 60,000 images shape (60000,28,28)<br>
